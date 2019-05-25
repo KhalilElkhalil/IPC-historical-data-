@@ -1,3 +1,2 @@
 # IPC-historical-data-
-A brief description of how to retrieve IPC historical data. We also plot the data in terms of prices, percentage change and
-log change. 
+Examining the theory of Geometric Brownian Motion (GBM) with some examples from Finance. 
